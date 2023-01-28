@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+.head{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.howto{
+    font-size: 15px;
+    color: darkgrey;
+}
+
+canvas{
+    border: 10px;
+    box-shadow: 10px;
+    margin: 10px;
+}
+
+#changer{
+    font-size: 23px;
+    margin: 15px;
+}
